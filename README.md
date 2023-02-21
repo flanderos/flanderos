@@ -1,4 +1,4 @@
-Hello, I am Anders, 35 years of age interested in the art of computers, music and sports. I am currently working as a support technician and studying front end development. The projects i currently am working on is my portfolio
+Hello, I am Anders, 35 years of age interested in the art of computers, music and sports. I am currently working as a support technician and studying front end development. The projects I am working on at the moment is my portfolio
 
 ![joseph-sharp-diTVNnVVHUM-unsplash (1)](https://user-images.githubusercontent.com/24903009/220420492-b4944240-53c6-4f3f-aa66-bba28ee2d84d.jpg)
 
