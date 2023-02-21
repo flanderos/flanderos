@@ -3,7 +3,7 @@
 Hello, I am Anders, 35 years of age interested in the art of computers, music and sports. 
 <details>
 <summary> Skills </summary>
-| Rank | Languages |
+| Rank | Languages     |
 |-----:|---------------|
 |     1|   HTML        |
 |     2|   CSS         |
