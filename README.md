@@ -1,4 +1,4 @@
-## Hello!(1)
+## Hello!
 
 Hello, I am Anders, 35 years of age interested in the art of computers, music and sports. I am currently working as a support technician and studying front end development. The projects I am working on at the moment is my portfolio
 
@@ -12,9 +12,16 @@ This is not a duck
 |     1|   HTML        |
 |     2|   CSS         |
 |     3|   Javascript  |
-|     4|   Wordpress   |
 
-## Work life(h2)
+####Skills i dont know very well but have some knowledge of
+
+*Wordpress
+*Github
+*SQL 
+*PHP
+
+
+## Work life
 Right now I work as a support technician for a Company called iizy. I work alongside other technicians and developers. I would like to one day work as a developer, and for the last two years i have studied Front end development at Noroff online studies and have also developed an interest in back end development. 
 
 
