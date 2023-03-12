@@ -1,4 +1,4 @@
-## Hello!
+# Hello!
 
 Hello, I am Anders, 35 years of age interested in the art of computers, music and sports. I am currently working as a support technician and studying front end development. The projects I am working on at the moment is my portfolio
 
@@ -6,6 +6,7 @@ Hello, I am Anders, 35 years of age interested in the art of computers, music an
 
 This is not a duck
 
+### Skills 
 
 |Skills| Languages     |
 |-----:|---------------|
@@ -13,7 +14,7 @@ This is not a duck
 |     2|   CSS         |
 |     3|   Javascript  |
 
-#### Skills i dont know very well but have some knowledge of
+### Skills i dont know very well but have some knowledge of
 
 *Wordpress
 *Github
