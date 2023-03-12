@@ -16,10 +16,10 @@ This is not a duck
 
 ### Skills i dont know very well but have some knowledge of
 
-*Wordpress
-*Github
-*SQL 
-*PHP
+* Wordpress
+* Github
+* SQL 
+* PHP
 
 
 ## Work life
