@@ -13,7 +13,7 @@ This is not a duck
 |     2|   CSS         |
 |     3|   Javascript  |
 
-####Skills i dont know very well but have some knowledge of
+#### Skills i dont know very well but have some knowledge of
 
 *Wordpress
 *Github
