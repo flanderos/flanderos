@@ -28,3 +28,4 @@ Right now I work as a support technician for a Company called iizy. I work along
 #### Get in touch
 
 [Linkedin](https://www.linkedin.com/in/anders-hellerud-64a809209/)
+[Email](mailto:andershellerud@hotmail.no)
