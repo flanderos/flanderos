@@ -1,4 +1,4 @@
-# Hello!
+# Hello! :smile:
 
 Hello, I am Anders, 35 years of age interested in the art of computers, music and sports. I am currently working as a support technician and studying front end development. The projects I am working on at the moment is my portfolio
 
