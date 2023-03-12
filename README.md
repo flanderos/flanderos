@@ -25,4 +25,6 @@ This is not a duck
 ## Work life
 Right now I work as a support technician for a Company called iizy. I work alongside other technicians and developers. I would like to one day work as a developer, and for the last two years i have studied Front end development at Noroff online studies and have also developed an interest in back end development. 
 
+#### Get in touch
 
+[Linkedin] (https://www.linkedin.com/in/anders-hellerud-64a809209/)
