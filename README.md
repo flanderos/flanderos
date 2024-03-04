@@ -12,6 +12,9 @@ This is not a duck
 |-----:|---------------|
 |     1|   HTML        |
 |     2|   CSS         |
+|      |   - Tailwind  |
+|      |   - SCSS      |
+|      |   -Bootstrap  |
 |     3|   Javascript  |
 
 ### Skills i dont know very well but have some knowledge of
