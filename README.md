@@ -6,13 +6,11 @@ I am a frontend developer with a strong interest in building fullstack web-appli
 
 ## 📊 GitHub-statistikk  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flanderos&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flanderos&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flanderos&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flanderos&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
 
 ---
 
