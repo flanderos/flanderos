@@ -45,7 +45,7 @@ Currently, I'm working on **WebFront**, a tool that helps web agencies manage th
 
 📌 **Portfolio:** [andershellerud.no](https://www.andershellerud.no)  
 📌 **Current Project:** [WebFront](https://webfront.no)  
-💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/anders-hellerud-64a809209/)
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/anders-hellerud-64a809209/)
 📧 **Email:** [post@andershellerud.no](mailto:post@andershellerud.no)  
 
 ---
