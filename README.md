@@ -1,6 +1,6 @@
 # 👋 Hello, im Anders  
 
-I am a frontend developer with a strong interest in building fullstack web-applications
+I am a frontend developer with a strong interest in building fullstack web-applications. *Right now i am working on my own tool that makes it easier for webagencys to manage their websites from one platform!*
 
 ---
 
@@ -39,5 +39,4 @@ I am a frontend developer with a strong interest in building fullstack web-appli
 
 ---
 
-💡 *Right now i am working on my own tool that makes it easier for webagencys to manage their websites from one platform!*
 
