@@ -1,36 +1,45 @@
-# Hello! :smile:
+# 👋 Hello, im Anders  
 
-Hello, I am Anders, 35 years of age interested in the art of computers, music and sports. I am currently working as a support technician and studying front end development. The projects I am working on at the moment is my portfolio
+I am a frontend developer with a strong interest in building fullstack web-applications
 
-![joseph-sharp-diTVNnVVHUM-unsplash (1)](https://user-images.githubusercontent.com/24903009/220420492-b4944240-53c6-4f3f-aa66-bba28ee2d84d.jpg)
+---
 
-This is not a duck
+## 📊 GitHub-statistikk  
 
-### Skills 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flanderos&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-|Skills| Languages     |
-|-----:|---------------|
-|     1|   HTML        |
-|     2|   CSS         |
-|     3|   Javascript  |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flanderos&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
 
+---
 
-### More Skills 
+## 🚀 Skills 
 
-* Wordpress
-* Github
-* SQL 
-* PHP
-* Git
-* Tailwind
-* SCSS/SASS
-* Bootstrap
+| Tech | Experince |
+|-----------|----------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐⭐ |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ⭐⭐⭐⭐ |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | ⭐⭐⭐⭐ |
+| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | ⭐⭐⭐ |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ⭐⭐⭐ |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ⭐⭐⭐⭐ |
+| ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | ⭐⭐⭐⭐ |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐⭐ |
 
+---
 
-## Work life
-Right now I work as a support technician for a Company called iizy. I work alongside other technicians and developers. I would like to one day work as a developer, and for the last three years i have studied Front end development at Noroff online studies and have also developed an interest in back end development. 
+## 📫Contact me 
 
-#### Get in touch
+- My Portfolio  [Nettside](https://www.andershellerud.no) 
+- My Current Project🌐 [Nettside](https://webfront.no)       
+- 💼 [LinkedIn](https://www.linkedin.com/in/DIN-LINKEDIN)  
+- ✉️ [E-post](mailto:dinemail@example.com)  
 
-[Linkedin](https://www.linkedin.com/in/anders-hellerud-64a809209/)
-[Email](mailto:andershellerud@hotmail.no)
+---
+
+💡 *Right now i am working on my own tool that makes it easier for webagencys to manage their websites from one platform!*
+
