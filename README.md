@@ -32,8 +32,7 @@ Currently, I'm working on **WebFront**, a tool that helps web agencies manage th
 
 ---
 
-## 🎯 My Goals for 2024  
-
+## 🎯 My Goals for 2025
 ✅ Improve WebFront and launch new features  
 ✅ Expand my AI-generated content tool  
 ✅ Collaborate with more developers  
