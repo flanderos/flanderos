@@ -10,7 +10,7 @@ Currently, I'm working on **WebFront**, a tool that helps web agencies manage th
 ## 🛠️ Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,tailwind,supabase,netlify,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,tailwind,supabase,netlify,git,html,css" />
 </div>
 
 ---
